@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**AliAbukahil/AliAbukahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
