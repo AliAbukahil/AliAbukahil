@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🔭 I’m currently working on learning JS
+## 🔭 I’m currently working on learning JS + CSS + HTML
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
