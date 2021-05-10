@@ -1,6 +1,6 @@
 ## Ali Dev. 👋
 
-### 🔭 I’m currently learning JavaScript.
+### :computer: I’m currently learning JavaScript.
 
 <img
   src="https://github.com/AliAbukahil/AliAbukahil/blob/main/Untitled.svg"
