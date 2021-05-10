@@ -1,6 +1,6 @@
 ## Ali Dev. :man_technologist:
 
-### :computer: I’m currently learning JavaScript.
+### :computer: I’m currently learning Coding.
 
 <img
   src="https://github.com/AliAbukahil/AliAbukahil/blob/main/me.png"
