@@ -3,7 +3,7 @@
 ### :computer: I’m currently learning JavaScript.
 
 <img
-  src="https://github.com/AliAbukahil/AliAbukahil/blob/main/Untitled.svg"
+  src="https://github.com/AliAbukahil/AliAbukahil/blob/main/Screenshot%20from%202021-05-10%2015-01-33.png"
   alt="svg"
 />
 
