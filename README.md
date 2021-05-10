@@ -1,4 +1,4 @@
-## Ali Dev. 👋
+## Ali Dev. :man_technologist:
 
 ### :computer: I’m currently learning JavaScript.
 
