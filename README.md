@@ -1,5 +1,12 @@
-### Hi there 👋
-## 🔭 I’m currently working on learning JS + CSS + HTML
+## Ali Dev. 👋
+
+### 🔭 I’m currently learning JavaScript.
+
+<img
+  src="https://github.com/AliAbukahil/AliAbukahil/blob/main/Untitled.svg"
+  alt="svg"
+/>
+
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
