@@ -2,10 +2,6 @@
 
 ### :computer: I’m currently learning Coding.
 
-<img
-  src="https://github.com/AliAbukahil/AliAbukahil/blob/main/me.png"
-  alt="svg"
-/>
 
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
