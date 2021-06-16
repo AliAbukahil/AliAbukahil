@@ -1,6 +1,6 @@
 ## Ali Dev. :man_technologist:
 
-### :computer: I’m currently learning Coding.
+### :computer: I’m currently learning to Code.
 
 
 <!--
