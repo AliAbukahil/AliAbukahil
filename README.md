@@ -1,11 +1,7 @@
 ## Ali Dev. :man_technologist:
 
-### :computer: I’m currently learning Coding.
+### :computer: I’m currently learning to Code.
 
-<img
-  src="https://github.com/AliAbukahil/AliAbukahil/blob/main/me.png"
-  alt="svg"
-/>
 
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
