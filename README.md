@@ -1,8 +1,8 @@
 ## Ali Dev. :man_technologist:
 
-### :computer: I’m currently learning to Code.
+### 📫 How to reach me: ali.abukahil@gmail.com
 
-<img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/ezgif.com-gif-maker.gif" alt="portfolio gif">
+  <img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/ezgif.com-gif-maker.gif" alt="portfolio gif">
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
