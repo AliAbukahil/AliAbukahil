@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me: ali.abukahil@gmail.com
 
-  <img src="" alt="portfolio gif">
+  <img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/portfolio-gif.gif" alt="portfolio gif">
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
