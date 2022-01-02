@@ -1,8 +1,8 @@
 ## Ali Dev. :man_technologist:
 
-### How to reach me: <a href="mailto:ali.abukahil@gmail.com">Email me 📫</a>
+###                                     How to reach me: <a href="mailto:ali.abukahil@gmail.com">Email me 📫</a>
 
-  <img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/portfolio-gif.gif" alt="portfolio gif">
+   <img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/portfolio-gif.gif" alt="portfolio gif">
 <!--
 **AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
