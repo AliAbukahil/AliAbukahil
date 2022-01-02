@@ -1,6 +1,6 @@
 ## Ali Dev. :man_technologist:
 
-### 📫 How to reach me: <a href="mailto:ali.abukahil@gmail.com">e-mail</a>
+### How to reach me: <a href="mailto:ali.abukahil@gmail.com">E-mail Me 📫</a>
 
   <img src="https://github.com/AliAbukahil/AliAbukahil/blob/main/portfolio-gif.gif" alt="portfolio gif">
 <!--
