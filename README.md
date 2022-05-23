@@ -1,4 +1,4 @@
-## Ali Dev :man_technologist:
+## Full-Stack Web developer :man_technologist:
 
 ###                                     How to reach me: <a href="mailto:ali.abukahil@gmail.com">Email me 📫</a>
 
