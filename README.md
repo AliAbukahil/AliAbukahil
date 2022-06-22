@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 <h1>Hello, I'm Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="210">
+=======
+## Full-Stack Web developer :man_technologist:
+>>>>>>> c9ae4a63cd8ebce45a807edde57933f41779f9de
 
 [![Linkedin: Ali Abukahil](https://img.shields.io/badge/-aliabukahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-abukahil-6223b120a/)](https://www.linkedin.com/in/ali-abukahil-6223b120a/)
 [![GitHub followers](https://img.shields.io/github/followers/AliAbukahil?style=social)](https://github.com/AliAbukahil)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://aliabukahil.com/)](https://aliabukahil.com/)
 
+<<<<<<< HEAD
 <h2> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute</a></h2>
+=======
+<!--
+**AliAbukahil/AliAbukahil** is a ✨ 🔭 I’m currently working on learning JS✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>>>>>> c9ae4a63cd8ebce45a807edde57933f41779f9de
 
 <h3><img src="https://media.giphy.com/media/lp6ZqyHa5z3v9FasLj/giphy.gif" width="40"> What I do...</h3>
 
