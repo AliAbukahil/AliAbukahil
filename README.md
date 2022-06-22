@@ -26,4 +26,4 @@ const aliAbukahil = {
 };
 ```
 
-<p align="center"> ⚡ Have a look in to my <a href="https://aliabukahil.github.io/">Portfolio</a></p>
+<p align="center"> ⚡ Have a look into my <a href="https://aliabukahil.github.io/">Portfolio</a></p>
