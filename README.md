@@ -5,7 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/AliAbukahil?style=social)](https://github.com/AliAbukahil)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://aliabukahil.com/)](https://aliabukahil.com/)
 
-<h2> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute</a></h2>
+<h2> WEB-DEV graduate @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute</a></h2>
+
+<div style="text-align: justify"> <h3> I have worked as freelancer translator in the Import/Export goods field, I have facilitated communication between businessmen in different regions of the world. I have done my share in the IT field, I have worked as an IT administrator in companies.</h3></div>
 
 <h3><img src="https://media.giphy.com/media/lp6ZqyHa5z3v9FasLj/giphy.gif" width="40"> What I do...</h3>
 
